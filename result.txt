@@ -1,0 +1,696 @@
+
+inchannel:1024, outchannel:512, spatialchannel, 128
+SumMe
+his is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.50237491507294
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.48405596809825396
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5089859625320375
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5049878344242378
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5635610820958755
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5127931524446689
+
+inchannel:1024, outchannel:512, spatialchannel, 128
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5984100713747843
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5828709893373953
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5752645377404468
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5844232789778979
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6155557531590445
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5913049261179137
+
+inchannel:1024, outchannel:256, spatialchannel, 128
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6129749147753017
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5816204392710776
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5843975618438392
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5982026902321079
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6114049915187371
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5977201195282127
+
+inchannel:1024, outchannel:256, spatialchannel, 64
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.612181146248145
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5900080130093859
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5732018640978989
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5982768678680519
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6110421949557654
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5969420172358495
+
+32
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.598224526696126
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5800953869584206
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5843975618438392
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5729036688775412
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6110421949557654
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5893326678663385
+
+
+sumMe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4875097919811223
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.4597027385965979
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.624694173144557
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.48767030495135366
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5375707497556058
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5194295516858473
+2023-10-12 04:13:54
+
+TVSum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6193487533304527
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5900527375420038
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.576948300732032
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5934141134811007
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6293305658723147
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6018188941915807
+
+
+
+
+
+inchannel:1024, outchannel:512, spatialchannel, 128
+SumMe
+his is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.50237491507294
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.48405596809825396
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5089859625320375
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5049878344242378
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5635610820958755
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5127931524446689
+
+inchannel:1024, outchannel:512, spatialchannel, 128
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5984100713747843
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5828709893373953
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5752645377404468
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5844232789778979
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6155557531590445
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5913049261179137
+
+inchannel:1024, outchannel:256, spatialchannel, 128
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6129749147753017
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5816204392710776
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5843975618438392
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5982026902321079
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6114049915187371
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5977201195282127
+
+inchannel:1024, outchannel:256, spatialchannel, 64
+TVsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.612181146248145
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5900080130093859
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5732018640978989
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5982768678680519
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6110421949557654
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5969420172358495
+
+32
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.598224526696126
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5800953869584206
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5843975618438392
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5729036688775412
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6110421949557654
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5893326678663385
+
+
+sumMe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4875097919811223
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.4597027385965979
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.624694173144557
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.48767030495135366
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5375707497556058
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5194295516858473
+2023-10-12 04:13:54
+
+TVSum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6193487533304527
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5900527375420038
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.576948300732032
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5934141134811007
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6293305658723147
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6018188941915807
+
+transformer + STGCN
+tvsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6120867428754474
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5996227778318818
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5756218516642078
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5966995791193022
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.61568613095524
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5999434164892159
+summe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.5013295586656865
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.42212909316629144
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.573462894606388
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5116876059520754
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5534326504866488
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.512408360575418
+
+inchannel:1024, outchannel:256, spatialchannel, 128 transformer + STGCN lr = 0.005
+
+
+inchannel:1024, outchannel:256, spatialchannel, 128 STGCN lr = 0.005
+summe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4809240614084048
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.41884621004769845
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5310967680095027
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.476931548232546
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5439832736032275
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4903563722602759
+
+tvsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.615070393187213
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5846751010036584
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.584999590143452
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.6071740457825796
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6140049651167044
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6011848190467215
+
+
+transformer + MLP  n_layers=6, hidden_size=512
+tvsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6331899746244243
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.6021820507582034
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5890287237091263
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.613335629554265
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6412877438414378
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6158048244974914
+
+summe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4789860990853331
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.43750973874612586
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5687488526940899
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5182571155898933
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5302315473825643
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5067466706996013
+
+transformer + MLP  n_layers=6, hidden_size=256 lr=0.01
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6324674521576867
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5925121923421337
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5943542279637597
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.6148635915699849
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6437954868044853
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.61559859016761
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.5148274771217805
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.4080677479158645
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5723061094561642
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.48477552695838194
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5533950900322507
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.5066743902968884
+
+inchannel:1024, outchannel:256, spatialchannel, 128 STGCN lr=0.01
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6119532108539378
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5832443500587706
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5945152418043813
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5933870010147626
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6146667382791986
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5995533084022101
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4623011523454781
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.42213438971763767
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5459717227555606
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5124267455296226
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5498979639916485
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.49854639486798946
+
+inchannel:1024, outchannel:512, spatialchannel, 128 STGCN lr=0.01
++transformer hidden_size=1024, dropout_rate=0.1, epoch=300
+开始时间：2023-10-30  10：26：00
+tvsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.608067725775695
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5834140209853313
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5808073783378265
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5964161501519577
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6172717336374738
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5971954017776568
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4661488990844062
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.43298708986876544
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5223470744399628
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.4884085610204595
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5255427402407759
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.48708687293087394
+
+transformer + STGCN
+
+main_transformer_STGCN
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.01, epoch=300
+STGCN 1024+512+128
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6130987851121733
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.578982774834117
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5860732279786106
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5889732164050024
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6157354590267403
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5965726926713287
+summe
+#根据图像分析，可的train_loss和val_loss均是先下降后趋于平稳，趋势很好，但train_loss会下降的很低，而测试集只能降到0.02左右
+
+
+
+main_transformer_STGCN
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.01, epoch=50
+STGCN 1024+512+128
+STGCN
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6061343879399417
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.562581979488646
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5530395007967012
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5904432992788046
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5925128286495172
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5809423992307221
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4912902374505082
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.38370636390822893
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.46219216597667706
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5041846317144476
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.48564070122008796
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.46540282005399
+
+main_transformer_STGCN
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.002, epoch=50
+STGCN 1024+512+128
+STGCN
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6061343879399417
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.562581979488646
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5530395007967012
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5904432992788046
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5925128286495172
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5809423992307221
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4912902374505082
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.38370636390822893
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.46219216597667706
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.5041846317144476
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.48564070122008796
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.46540282005399
+学习率从0.1变为0.02,从前五十轮的结果来看，F1值没有太大变化
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.01 epoch=60
+STGCN 1024+512+128
+tansformer的输出直接输入STGCN
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5804851703232043
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.568457149243609
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.566004310168499
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5814376473829446
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6067039704708908
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5806176495178296
+
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4394149243426061
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.39489654873664315
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.42317326345769557
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.47115299639189656
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.48148711615733486
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4420249698172352
+train_loss训练的很好，但是val_loss在下降一段时间后，不在下降，一部分停在0.02左右，最高的在0.04就不再下降
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.01 epoch=60
+STGCN 1024+512+128
+tansformer的输出catSTGCN
+线性dropout0.8
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6158464968765854
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5823708632216453
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.565899718110608
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5849593754914447
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6013285396823621
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5900809986765292
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.49800635996059184
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.39177483626044046
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5153656577517465
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.4893447301586171
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5426889411221048
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4874361050507002
+train_loss训练的很好，但是val_loss还是在0.01,0.02左右，但比之前的好
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.002 epoch=60
+STGCN 1024+512+128
+tansformer的输出catSTGCN
+线性dropout0.5
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6085439790221298
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5937836019502118
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5851435029212156
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5951483573455134
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6214167755493953
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6008072433576933
+
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.47487052154384424
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.3887092157378133
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.521664345088234
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.47197459233310834
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5587189230330648
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.48318751954721295
+从loss损失来看，tvsum有略微的提升，但summe的val_loss还是下降的趋势，同样的问题是val_loss还在0.02左右，没有继续下降，预计多训练几轮会提升，但提升不大
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.002 epoch=100
+STGCN 1024+512+128
+tansformer的输出catSTGCN
+线性dropout0.8
+val_loss下降的比较缓慢，最后val_loss的数值仍然比较大原因是dropout值太大
+
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.002 epoch=100
+STGCN 1024+512+128
+tansformer的输出catSTGCN
+线性dropout0.2
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6144110950424707
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5992656718713494
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5746600130405077
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.6119164450107406
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.6151029909704897
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.6030712431871116
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.45049911610360455
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.4150529596712974
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.5270688411440985
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.46822632898954336
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5534898579518046
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4828674207720697
+从曲线来看，tvsum数据集已经训练到最好，且没有再升高的趋势，val_loss趋于0.02,summe数据集还没有到最优，但看pre_f1的趋势没有太大的上升趋势。
+val_loss还没有下降到最低，可能是dropout让损失下降的晚
+
+main_transformer_STGCN1
+transformer hidden_size=1024, dropout_rate=0.1, head_size=8, filter_size=0.1, lr=0.002 epoch=100
+STGCN 1024+512+128
+tansformer的输出catSTGCN,两层
+线性dropout0.2
+
+
+
+batchnorm只是会让数据归一化，表现是val_loss不再大幅度振荡，但是部分数据集val_loss下降的不理想
+
+
+
+
+
+
+
+
+
+
+
+
+

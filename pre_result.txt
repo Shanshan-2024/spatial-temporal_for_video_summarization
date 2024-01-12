@@ -1,0 +1,337 @@
+
+
+
+Transformer + MLP  hidden_size=512, dropout_rate=0.1
+lr=0.001
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5845535330877039
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5535796377335294
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5664226238130403
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5796024385182834
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5829330918296355
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5734182649964386
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.0
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.020543806645905018
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4682200912736647
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.38103784030004145
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.47916288810575275
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.26979292526507276
+
+lr=0.002
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6062746246373586
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5757403621363425
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5625312094433808
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5549970089578767
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5912068528337142
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5781500116017346
+
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.45003613339288434
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.31937226945054376
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.46953358342254264
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.3850931701533884
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5172996793962725
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4282669671631263
+
+lr=0.01
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5959547944869744
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5678707211370071
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5432987896313597
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5642669306364702
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.598593808182185
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5739970088147992
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.42096583103892754
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.3631286367940294
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.3970948225470098
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.45434924468265436
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.4154948601934761
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.41020667905121944
+
+lr=0.005
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.6040872520204532
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5775404743526866
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5543212712105857
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5671834081194225
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5942453006853758
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5794755412777048
+summe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4545647755080296
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.30640932820554123
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4637571055451791
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.3933786107183537
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.49285281154431076
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4221925263042829
+
+Transformer + MLP  hidden_size=512,  lr=0.002
+dropout_rate=0.8
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5992578458825355
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5655252778900618
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5402706936032055
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.551319412161255
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5876885842893522
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5688123627652819
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.395070190442459
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.08769865319643075
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4023503607354099
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.41892304026375626
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5202233000899498
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.3648531089456012
+
+Transformer + MLP  hidden_size=512,  lr=0.002
+dropout_rate=0.2
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5934282512491482
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.568060861659647
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5498950217125804
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5326477818470206
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.58058454682524
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5649232926587272
+summe
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.38842919515203755
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.3553682042896284
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4982558191900939
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.37590101908700296
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.5176039000153057
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.42711162754681364
+
+Transformer + MLP  hidden_size=256, dropout_rate=0.1, lr=0.002
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5931328335584393
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5525235707177814
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.532969165411293
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.562778766518297
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5878673693810755
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5658543411173773
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4274612714625675
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.36879873347730346
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.47136421137854867
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.36076714112081776
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.4960647753933981
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4248912265665271
+
+
+Transformer + MLP  hidden_size=256, dropout_rate=0.1, lr=0.002
+#在train时不用sigmoid,tests时用sigmoid
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5931328335584393
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5525235707177814
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.532969165411293
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.562778766518297
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5878673693810755
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5658543411173773
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.4274612714625675
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.36879873347730346
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.47136421137854867
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.36076714112081776
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.4960647753933981
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.4248912265665271
+
+Transformer + MLP  hidden_size=1024, dropout_rate=0.1
+lr=0.002
+tvsum
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5904158691775084
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5649467455029631
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5398521745416612
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5773430527685999
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5920370861678745
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5729189856317215
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.42455975852411393
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.2950850129521946
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4901784455968029
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.0
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.487109960962332
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.3393866356070887
+
+Transformer + MLP  hidden_size=1024, dropout_rate=0.1
+lr=0.01
+tvsum
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6307371783000498, the pre_f1 is 0.5686457594288549
+This is K2
+the real_f1 is 0.6256183316823789, the pre_f1 is 0.5507169437269483
+This is K3
+the real_f1 is 0.625397227736239, the pre_f1 is 0.5390890689925418
+This is K4
+the real_f1 is 0.6450169414830682, the pre_f1 is 0.5016763296888715
+This is K5
+the real_f1 is 0.6558841036986484, the pre_f1 is 0.5937830562472123
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6365307565800769, the avg pre_f1 is 0.5507822316168858
+summe
+-----------------------------------------------
+This is K1
+the real_f1 is 0.6557849588662152, the pre_f1 is 0.43262682692788834
+This is K2
+the real_f1 is 0.5936870250630568, the pre_f1 is 0.35899235077016706
+This is K3
+the real_f1 is 0.7128271908637462, the pre_f1 is 0.4824305771341553
+This is K4
+the real_f1 is 0.6442415847765866, the pre_f1 is 0.0
+This is K5
+the real_f1 is 0.6059260397739396, the pre_f1 is 0.08661865075899783
+------------------------------------------------
+------------------------------------------------
+the avg real_f1 is 0.6424933598687088, the avg pre_f1 is 0.2721336811182417
+
+Transformer + STGCN
+Transformer hidden_size=1024, dropout=0.1, filter_size=1
+STGCN 1024+512+128
+lr=0.01
+tvsum
+
+summe
+
+
